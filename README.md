@@ -6,8 +6,8 @@ This repository contains the deliverables for an academic Incident Response and 
 The focus of this project was not live incident handling or tool execution, but the **design of structured, repeatable security documentation** aligned to recognized cybersecurity governance and response frameworks.
 
 ---
-```
 ## Repository Structure
+```
 incident-response-and-grc-capstone/
 ├── README.md
 ├── docs/
