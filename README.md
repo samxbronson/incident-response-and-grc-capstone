@@ -7,6 +7,15 @@ The focus of this project was not live incident handling or tool execution, but 
 
 ---
 
+## Repository Structure
+incident-response-and-grc-capstone/
+├── README.md
+├── docs/
+│   ├── nist_self_assessment.xls
+│   └── miss_flowers_cyber_framework.pdf
+
+---
+
 ## Mock Organization Profile
 Miss Jean’s Flowers is a fictional retail and distribution company with the following characteristics:
 
